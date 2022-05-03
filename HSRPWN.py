@@ -18,7 +18,7 @@ M  MMMMM  MM Mb.     .dM MM  MMMMM  M MM  MMMMMMMM M    .d  .dMMM M  MMMMM  M
 MMMMMMMMMMMM MMMMMMMMMMM MMMMMMMMMMMM MMMMMMMMMMMM MMMMMMMMMMMMMM MMMMMMMMMMM
     """)
 print ("HSRP packet injection tool for traffic interception")
-print("\nAuthor: @necreas1ng, <necreas1ng@protonmail.com>\n")
+print("\nAuthor: necreas1ng, <necreas1ng@protonmail.com>\n")
 
 HSRPMulticastAddr = "224.0.0.2"
 
