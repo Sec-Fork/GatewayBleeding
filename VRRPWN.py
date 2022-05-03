@@ -18,7 +18,7 @@ M     .dMMM MM  MMMMM  M MM  MMMMM  M MM  MMMMMMMM M    .d  .dMMM M  MMMMM  M
 MMMMMMMMMMM MMMMMMMMMMMM MMMMMMMMMMMM MMMMMMMMMMMM MMMMMMMMMMMMMM MMMMMMMMMMM  
     """)
 print ("VRRP packet injection tool for traffic interception")
-print("\nAuthor: @necreas1ng, <necreas1ng@protonmail.com>\n")
+print("\nAuthor: necreas1ng, <necreas1ng@protonmail.com>\n")
 
 VRRPMulticastAddr = "224.0.0.18"
 
